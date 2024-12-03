@@ -4,3 +4,4 @@ matplotlib==3.7.5
 seaborn==0.13.2
 scikit-learn==1.3.2
 prophet==1.1.6
+pmdarima==2.0.4
